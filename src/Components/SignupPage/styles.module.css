@@ -1,0 +1,29 @@
+body{
+     background-color:gray ;   
+}
+form{
+    width: 80%;
+    border: 1px solid #dfdfdf;
+    padding: 20px;
+    border-radius: 5px;
+}
+.demo{
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 500px;
+    width: 200%;
+    margin: auto;
+}
+input{
+    width: 90%;
+    font-size: larger;
+}
+button {
+     background: #0563b4 !important; 
+}
+p{
+color: red;
+}
